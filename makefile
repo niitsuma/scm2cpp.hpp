@@ -14,7 +14,7 @@ CFLAGS		= -Wall \
 OBJS		= $(SRCS:.c=.o)
 
 
-PROGRAM		= usage.exe
+PROGRAM		= usage.exe list-test.exe equal-test.exe
 
 all:	$(PROGRAM)
 
